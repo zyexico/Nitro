@@ -1,2 +1,1 @@
-# Nitro
-Free nitro method
+# Nuker
